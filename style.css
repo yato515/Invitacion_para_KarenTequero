@@ -25,7 +25,7 @@ body {
 }
 
 h1 {
-    font-family: "Marck Script", serif; 
+    font-family:Georgia, 'Times New Roman', Times, serif; 
     text-align: center;
     font-size: 60px;
     margin-bottom: 50px;
@@ -39,7 +39,7 @@ h1 {
 .envoltura-sobre {
     position: relative;
     background-color: var(--fondo-sobre);
-    box-shadow: 0 0 40px var(--sombra);
+    box-shadow: 0 0 60px var(--sombra);
     border-radius: 15px;
 }
 
@@ -107,7 +107,7 @@ h1 {
     font-family: "Gill Sans", Calibri, sans-serif;
     color: var(--texto);
     text-align: left;
-    font-size: 12px;
+    font-size: 15px;
     border: 3px dotted var(--texto);
     padding: 10px;
     height: 100%;
